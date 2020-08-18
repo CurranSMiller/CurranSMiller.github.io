@@ -1,1 +1,2 @@
-# CurranSMiller.github.io
+# my-bio
+This is my bio for class
