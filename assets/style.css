@@ -1,8 +1,37 @@
+body {
+  background-color: #F4FFF8;
+}
+
 h1 {
+  margin-top: 40px;
   text-align: center;
+  color: #63768D;
+}
+
+/* #aboutMe {
+
+} */
+
+.navbar {
+  background-color: #63768D
 }
 
 .footer {
   display: inline-block;
   float: none;
+}
+
+#contact {
+  position: relative;
+  width: 700px;
+  margin: 50px auto 100px auto;
+  border: solid 1px #63768D;
+}
+
+.form-control{
+  background-color: #DBE0E6;
+}
+
+.btn {
+  background-color: #63768D
 }
